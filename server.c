@@ -16,6 +16,7 @@
 // norm
 // search for printf 
 // allowed functions
+// read gitbook explainer again
 
 #include "minitalk.h"
 
