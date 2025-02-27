@@ -10,6 +10,13 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+// check 42 headers in everyfile 
+// check speed is the same as school
+// check differences - speed..
+// norm
+// search for printf 
+// allowed functions
+
 #include "minitalk.h"
 
 char	*msg;
